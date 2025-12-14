@@ -200,3 +200,6 @@ Database integration
 
 FitPlanner demonstrates how Large Language Models can be used effectively in real-world applications to generate structured, personalized content.
 The project highlights skills in prompt engineering, API integration, UI development, and responsible AI usage.
+
+## Demo Video
+https://drive.google.com/file/d/1d0ANSDedrK_zDsU9sUkLWPCmxKOhc88F/view?usp=sharing
